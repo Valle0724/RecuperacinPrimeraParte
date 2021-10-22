@@ -83,7 +83,7 @@ export default {
           descripcion:
             "5. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore omnis, laudantium tempore, provident corporis iure ex libero repellendus accusamus accusantium at voluptate excepturi voluptatem quis, illo modi exercitationem error consequatur.",
           rol: "Desarrollador backend",
-          img: "https://placeimg.com/192/192/any",
+          imagen: "https://placeimg.com/192/192/any",
         },
       ],
     };
